@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Mark Chira**
 
-**Backend Developer • Distributed Systems • Data Analytics • ML**
+**Software Developer • Backend Developer • Distributed Systems • Data Analytics • ML**
 
 I build scalable APIs, microservices, and intelligent systems using **Spring Boot**, **WebFlux**, **Python**, and **Docker**.
 I enjoy shipping clean code, experimenting with ML models, and solving real-world problems through backend engineering.
@@ -79,14 +79,14 @@ An ML model that predicts **MBTI personality types** from user text input.
 *A modern Astro + Tailwind portfolio showcasing all projects (microservices, ML, analytics).*
 
 👉 Coming soon: **mark-chira.dev**
-👉 Source code: (add link when deployed)
+
 
 ---
 
 ## 📬 Contact
 
-**Email:** [mark@example.com](mailto:mark@example.com)
-**LinkedIn:** (add link)
+**Email:** [markchira55@gmail.com](mailto:markchira55@gmail.com)
+**LinkedIn:** ([Mark Chira](https://www.linkedin.com/in/mark-chira-282571217/))
 
 ---
 
